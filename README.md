@@ -355,8 +355,3 @@ Use Postman to test the APIs.
 
 - Migbaru Belay Argachew
 
----
-
-# License
-
-This project is developed for educational purposes.
